@@ -21,7 +21,7 @@ export default function About() {
             transition={{ duration: 0.5 }}
             className="text-lg text-muted-foreground max-w-2xl mx-auto pt-6"
           >
-            I'm a Junior in Mechanical Engineering at UIUC, passionate about motorcycles and all things with motors. I enjoy weight lifting, taking on challenging tasks, meeting new people, and making a positive impact. My love for building things drives me to innovate and create.
+            I am a Junior in Mechanical Engineering at UIUC, passionate about motorcycles and all things with motors. I enjoy weight lifting, taking on challenging tasks, meeting new people, and making a positive impact. My love for building things drives me to innovate and create.
           </motion.p>
         </CardContent>
       </Card>

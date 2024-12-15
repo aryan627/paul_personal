@@ -1,11 +1,11 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { useState } from 'react'
+
 import Image from 'next/image'
-import { ChevronLeft, ChevronRight } from 'lucide-react'
+
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
+
 import {
   Carousel,
   CarouselContent,
