@@ -40,14 +40,12 @@ export default function Hero() {
           </a>
         </Button>
         <Button variant="outline" size="icon">
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/paulklapperich/" target="_blank" rel="noopener noreferrer">
             <Linkedin className="h-5 w-5" />
           </a>
         </Button>
-        <Button variant="outline" size="icon">
-          <a href="mailto:your.email@example.com">
-            <Mail className="h-5 w-5" />
-          </a>
+        <Button variant="outline" size="icon" onClick={() => window.location.href = 'mailto:paulklapperich12@gmail.com'}>
+          <Mail className="h-5 w-5" />
         </Button>
       </motion.div>
     </motion.section>

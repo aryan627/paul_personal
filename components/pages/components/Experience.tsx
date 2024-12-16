@@ -9,7 +9,12 @@ const experiences = [
     title: "President, Chief Engineer",
     company: "Ghost Electric Motorcycles",
     date: "Jan 2024 - Present",
-    description: "Co-founder and President, actively involved in various aspects of the organization including project management, CAD design, and overseeing all operations."
+    description: (
+      <>
+        Co-founder and President, actively involved in various aspects of the organization including project management, CAD design, and overseeing all operations. 
+        <a href="https://ghostelectric.web.illinois.edu/" target="_blank" rel="noopener noreferrer">Visit our website</a>
+      </>
+    )
   },
   {
     title: "Machinist",
